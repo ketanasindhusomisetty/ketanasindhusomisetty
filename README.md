@@ -1,121 +1,133 @@
+
+<div align="center">
+
 # 👋 Hi, I'm Ketana Sindhu Somisetty
 
-### 🎓 B.Tech CSE (Honours) Student | 💻 Aspiring Software Developer
+### B.Tech CSE (Honours) Student | Aspiring Software Engineer
 
-> Learn → Build → Make Mistakes → Improve → Repeat 🚀
+**Learn • Build • Solve • Grow**
 
-I'm a Computer Science student passionate about software development,
-problem-solving, and building practical projects.
+[![Profile Views](https://komarev.com/ghpvc/?username=ketanasindhusomisetty&label=PROFILE+VIEWS&color=8957e5&style=for-the-badge)](https://github.com/ketanasindhusomisetty)
 
-Currently strengthening my foundations in **Java, Data Structures &
-Algorithms, DBMS, SQL, Web Development, and Git/GitHub.**
-
----
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ketanasindhusomisetty&label=PROFILE+VISITORS&color=blueviolet&style=for-the-badge" alt="Profile Visitors" />
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+## 🎓 About Me
 
-- 🎓 B.Tech CSE (Honours) Student
-- 💻 Currently focused on **Java & DSA**
-- 🌐 Exploring **Web Development**
-- 📱 Building projects with **Android & Firebase**
-- 🧠 Practicing problem solving consistently
-- 🔥 Currently doing a **90-Day DSA Challenge**
-- 🚀 Interested in building practical software projects
-- 🎯 Preparing for internships and future software engineering roles
+I'm a Computer Science student passionate about software development, problem-solving, and building practical applications.
+
+- 🎯 Pursuing B.Tech in Computer Science and Engineering (Honours).
+- 💻 Strengthening my foundations in Java and Data Structures & Algorithms.
+- 🌐 Exploring Web Development and modern technologies.
+- 📱 Building applications using Android, Kotlin and Firebase.
+- 🧠 Practicing competitive programming and problem-solving.
+- 🚀 Interested in software engineering internships and collaborative projects.
+
+> **My philosophy:** Learn → Build → Make Mistakes → Improve → Repeat.
+
+---
+
+## 📚 My Learning Journey
+
+| Area | Current Focus |
+|---|---|
+| Programming | Java |
+| Problem Solving | Data Structures & Algorithms |
+| Database | DBMS and SQL |
+| Web Development | HTML, CSS, JavaScript, React |
+| App Development | Kotlin, Android, Firebase |
+| Tools | Git and GitHub |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,kotlin,firebase,mysql,git,github,androidstudio&perline=6)](https://skillicons.dev)
 
-### Web Development
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-### Database
+## 🏆 Coding Journey & Achievements
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- ⭐ CodeChef 2-Star Coder.
+- 💡 Solved 400+ coding problems.
+- 🥈 Earned CodeChef Silver Badge.
+- 🔥 Participating in a 90-Day DSA Challenge.
+- 📈 Consistently improving problem-solving skills.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 CodeVerse
-**Collaborative Code Editor**
+### 1. CodeVerse
+A collaborative coding platform designed to help students and developers learn, collaborate and build together.
 
-A collaborative coding environment designed to allow developers
-to write and work on code together.
+### 2. NariSafe
+An Android-based emergency SOS application featuring emergency contacts and location sharing.
 
-🔗 [View Repository](https://github.com/ketanasindhusomisetty/CodeVerse)
+### 3. DSA 90 Days Challenge
+A structured journey to strengthen Data Structures and Algorithms through consistent learning and practice.
 
----
-
-### 🧠 DSA Journey
-
-My ongoing journey of learning Data Structures and Algorithms
-through a **90-Day DSA Challenge**.
-
-Topics include:
-
-- Arrays
-- Prefix Sum
-- Kadane's Algorithm
-- Sliding Window
-- Strings
-- Searching
-- Sorting
-- And more...
-
-🔗 [View DSA Repository](https://github.com/ketanasindhusomisetty/DSA-90-DAYS-CHALLENGE)
+[![Explore Repositories](https://img.shields.io/badge/Explore-My%20Repositories-8957e5?style=for-the-badge&logo=github)](https://github.com/ketanasindhusomisetty?tab=repositories)
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Dashboard
 
-- ⭐ CodeChef 2★
-- 💻 400+ coding problems solved
-- 🥈 CodeChef Silver Badge
-- 🔥 90-Day DSA Challenge
-- 📚 Consistent problem-solving practice
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ketanasindhusomisetty&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 
-## 📊 GitHub Journey
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanasindhusomisetty&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketanasindhusomisetty&show_icons=true&theme=tokyonight)
+</div>
 
 ---
 
-## 🔥 Current Focus
+## 🔥 Contribution Streak
 
-```text
-Java
- ↓
-Data Structures & Algorithms
- ↓
-Problem Solving
- ↓
-Web Development
- ↓
-Projects
- ↓
-Internship Preparation
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ketanasindhusomisetty&theme=dark&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanasindhusomisetty&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 🎯 My Goals
+
+- Strengthen problem-solving and DSA foundations.
+- Build meaningful real-world software projects.
+- Improve technical and communication skills.
+- Contribute to collaborative development.
+- Prepare for Software Engineering Internships.
+- Keep learning and growing as a developer.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ketanasindhusomisetty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketanasindhu-somisetty-080804376/)
+
+**Thanks for visiting my profile!**
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
