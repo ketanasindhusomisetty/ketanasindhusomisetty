@@ -76,15 +76,17 @@ A structured journey to strengthen Data Structures and Algorithms through consis
 
 ---
 
+
 ## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ketanasindhusomisetty&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ketanasindhusomisetty&theme=github_dark" height="180" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanasindhusomisetty&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ketanasindhusomisetty&theme=github_dark" height="180" />
 
 </div>
+
 
 ---
 
