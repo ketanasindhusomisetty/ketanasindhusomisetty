@@ -100,13 +100,15 @@ A structured journey to strengthen Data Structures and Algorithms through consis
 
 ---
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanasindhusomisetty&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ketanasindhusomisetty&theme=github_dark" width="100%" />
 
 </div>
+
 
 ---
 
