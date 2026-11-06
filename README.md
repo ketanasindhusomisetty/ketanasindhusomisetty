@@ -11,6 +11,11 @@ Currently strengthening my foundations in **Java, Data Structures &
 Algorithms, DBMS, SQL, Web Development, and Git/GitHub.**
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ketanasindhusomisetty&label=PROFILE+VISITORS&color=blueviolet&style=for-the-badge" alt="Profile Visitors" />
+</p>
+
+---
 
 ## 🚀 About Me
 
