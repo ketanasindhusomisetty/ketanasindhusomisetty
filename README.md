@@ -1,15 +1,14 @@
+ <div align="center">
 
-<div align="center">
+<img src="assets/intro.svg?v=1" alt="Introduction — Ketana Sindhu Somisetty" width="100%"/>
 
-<img src="intro.svg?v=1" alt="Introduction — Ketana Sindhu Somisetty" width="100%"/>
+<img src="assets/right-now.svg?v=1" alt="What I am building, learning and reading" width="100%"/>
 
-<img src="right-now.svg?v=1" alt="What I am building, learning and reading" width="100%"/>
+<img src="assets/toolkit.svg?v=1" alt="Technology toolkit" width="100%"/>
 
-<img src="toolkit.svg?v=1" alt="Technology toolkit" width="100%"/>
+<img src="assets/card.svg?v=1" alt="Ketana's developer trading card" width="100%"/>
 
-<img src="card.svg?v=1" alt="Ketana's developer trading card" width="100%"/>
-
-<img src="say-hi.svg?v=1" alt="Say hi and connect with Ketana" width="100%"/>
+<img src="assets/say-hi.svg?v=1" alt="Say hi and connect with Ketana" width="100%"/>
 
 </div>
 
